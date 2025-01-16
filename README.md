@@ -1,16 +1,19 @@
-## Hi there 👋
+# Yash Anbhore - Selldo Intern
 
-<!--
-**anbhoreyash/anbhoreyash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hi, I’m Yash Anbhore, a passionate software developer currently interning at Selldo. I have a strong foundation in web development, with experience in building and optimizing applications using various technologies. I thrive in collaborative environments where I can learn, contribute, and grow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Programming Languages**: Ruby, Golang, JavaScript, SQL, Python  
+- **Web Technologies**: React.js, HTML, CSS, TailwindCSS  
+- **Database**: PostgreSQL, MongoDB  
+- **Tools & Frameworks**: Docker, Swagger, chi, REST APIs  
+- **Soft Skills**: Problem Solving, Communication, Teamwork  
+
+
+
+## Contact
+
+- **Email**: yash.anbhore@sell.do 
